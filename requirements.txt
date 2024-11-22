@@ -17,3 +17,4 @@ notebook
 tavily-python
 wikipedia
 python-dotenv
+langchain_groq
